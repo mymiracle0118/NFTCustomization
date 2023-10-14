@@ -1,0 +1,34 @@
+[
+{
+"name": "Accessories",
+"trait": []
+},
+{
+"name": "Background",
+"trait": []
+},
+{
+"name": "Claws",
+"trait": ["claws_bloody", "claws_gold", "claws_silver", "claws_white"]
+},
+{
+"name": "Clothes",
+"trait": []
+},
+{
+"name": "Head",
+"trait": []
+},
+{
+"name": "Neck",
+"trait": []
+},
+{
+"name": "Pedestal",
+"trait": ["gold collumn", "icerock", "Rock_1", "stone_collumn"]
+},
+{
+"name": "Skins",
+"trait": ["albino", "antartica", "black", "blue", "blue_night", "crimson", "darkblue", "devil", "forest_spirit", "foxy", "galaxy", "Ghost", "green", "ice", "inverted_lava", "kitsune_blue", "kitsune_red", "lava", "origin_brown", "pink", "purple", "rainbow", "red", "shadow", "squeleton_bloody", "squeleton_forest", "sunset", "zombie"]
+}
+]
